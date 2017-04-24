@@ -19,7 +19,8 @@ $(document).ready(function(){
     "background-size": "cover",
     
     "opacity": "0",
-    "cursor": "pointer"
+    "cursor": "pointer",
+    "z-index": "1000",
     
   };
 
