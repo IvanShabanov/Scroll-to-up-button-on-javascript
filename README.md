@@ -1,4 +1,4 @@
-# Scrool-to-up-button-on-javascript
+# Scroll-to-up-button-on-javascript
 Usage
 
 1) Make changes styles in "scroll_to_up.js"
