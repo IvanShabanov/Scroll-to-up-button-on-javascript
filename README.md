@@ -5,5 +5,5 @@ Usage
 2) Upload "scroll_to_up.js" on site	
 3) Add this script to all pages of the site no matter where 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-<script src="site	scroll_to_up.js"></script>
+<script src="scroll_to_up.js"></script>
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
